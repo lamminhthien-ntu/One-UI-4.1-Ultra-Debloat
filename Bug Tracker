@@ -44,6 +44,7 @@ com.google.android.syncadapters.contacts
 com.google.android.tag
 com.google.android.sdksetup
 com.google.android.configupdater
+com.google.android.onetimeinitializer
 
 
 # Cannot be unninstalled with adb
