@@ -43,4 +43,6 @@ failed to uninstall:com.android.phone.auto_generated_rro_product__:?
 [Error]:failed to uninstall:com.android.localtransport:?
 [Error]:failed to uninstall:com.android.keychain:?
 
+#Reinstall when reboot:
+com.android.statementservice
 
