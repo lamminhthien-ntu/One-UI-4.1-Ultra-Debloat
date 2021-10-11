@@ -21,6 +21,7 @@ com.android.cts.ctsshim
 com.android.cts.priv.ctsshim
 com.android.dreams.basic
 com.android.dynsystem
+com.android.imsserviceentitlement
 com.android.managedprovisioning
 com.android.managedprovisioning.auto_generated_rro_product__
 com.android.printspooler
@@ -28,7 +29,6 @@ com.android.providers.partnerbookmarks
 com.android.providers.userdictionary
 com.android.proxyhandler
 com.android.se
-com.android.imsserviceentitlement
 
 # Cannot be unninstalled with adb
 failed to uninstall:com.android.phone.auto_generated_rro_product__:?
