@@ -1,6 +1,6 @@
 # Cause Bootloop:
 com.google.android.wifi.resources
-com.android.managedprovisioning
+com.android.providers.settings
 
 
 # Can unninstall without cause bootloop:
