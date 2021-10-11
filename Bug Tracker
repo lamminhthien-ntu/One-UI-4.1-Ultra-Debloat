@@ -1,7 +1,7 @@
 # Cause Bootloop:
 com.google.android.wifi.resources
 com.android.providers.settings
-com.google.android.settings.intelligence
+
 
 
 # Can unninstall without cause bootloop:
@@ -30,6 +30,8 @@ com.android.providers.partnerbookmarks
 com.android.providers.userdictionary
 com.android.proxyhandler
 com.android.se
+com.google.android.settings.intelligence
+
 
 # Cannot be unninstalled with adb
 failed to uninstall:com.android.phone.auto_generated_rro_product__:?
