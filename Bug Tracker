@@ -44,7 +44,7 @@ com.google.android.syncadapters.contacts
 com.google.android.tag
 com.google.android.sdksetup
 com.google.android.configupdater
-com.google.android.onetimeinitializer
+
 
 
 # Cannot be unninstalled with adb
@@ -65,4 +65,8 @@ com.android.statementservice
 All Cellbroadcaster packages
 com.google.android.connectivity.resources
 com.android.carrierconfig
+com.google.android.ext.shared
+com.google.android.ext.services
+com.google.android.onetimeinitializer
+
 
