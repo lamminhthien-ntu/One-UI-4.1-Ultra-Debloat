@@ -1,5 +1,6 @@
 # Cause Bootloop:
 com.google.android.wifi.resources
+com.android.managedprovisioning
 
 
 # Can unninstall without cause bootloop:
@@ -15,3 +16,18 @@ com.android.carrierconfig.auto_generated_rro_vendor__
 com.android.carrierdefaultapp
 com.android.cellbroadcastreceiver
 com.android.certinstaller
+
+# Cannot be unninstalled with adb
+failed to uninstall:com.android.phone.auto_generated_rro_product__:?
+[Error]:failed to uninstall:com.android.printspooler:?
+[Error]:failed to uninstall:com.android.phone.auto_generated_rro_vendor__:?
+failed to uninstall:com.android.phone.auto_generated_rro_product__:?
+[Error]:failed to uninstall:com.android.pacprocessor:?
+[Error]:failed to uninstall:com.android.ons:?
+[Error]:failed to uninstall:com.android.nfc.auto_generated_rro_product__:?
+[Error]:failed to uninstall:com.android.musicfx:?
+[Error]:failed to uninstall:com.android.mms.service:?
+[Error]:failed to uninstall:com.android.localtransport:?
+[Error]:failed to uninstall:com.android.keychain:?
+
+
