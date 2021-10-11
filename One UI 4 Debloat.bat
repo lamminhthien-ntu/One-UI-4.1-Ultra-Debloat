@@ -1,4 +1,5 @@
 adb shell
+pm uninstall --user 0 com.sec.android.app.samsungapps
 pm uninstall --user 0 com.google.android.settings.intelligence
 pm uninstall --user 0 com.android.imsserviceentitlement
 pm uninstall --user 0 com.android.cellbroadcastreceiver
