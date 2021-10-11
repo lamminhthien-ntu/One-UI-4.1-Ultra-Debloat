@@ -1,6 +1,5 @@
 adb shell
-pm uninstall --user 0 android.auto_generated_rro_product__
-pm uninstall --user 0 android.auto_generated_rro_vendor__
+pm uninstall --user 0 com.android.cellbroadcastreceiver
 pm uninstall --user 0 android.autoinstalls.config.samsung
 pm uninstall --user 0 com.android.apps.tag
 pm uninstall --user 0 com.android.backupconfirm
@@ -29,14 +28,8 @@ pm uninstall --user 0 com.android.internal.systemui.navbar.gestural_extra_wide_b
 pm uninstall --user 0 com.android.internal.systemui.navbar.gestural_narrow_back
 pm uninstall --user 0 com.android.internal.systemui.navbar.gestural_wide_back
 pm uninstall --user 0 com.android.internal.systemui.navbar.threebutton
-pm uninstall --user 0 com.android.keychain
-pm uninstall --user 0 com.android.localtransport
 pm uninstall --user 0 com.android.managedprovisioning
-pm uninstall --user 0 com.android.mms.service
 pm uninstall --user 0 com.android.nfc
-pm uninstall --user 0 com.android.ons
-pm uninstall --user 0 com.android.pacprocessor
-pm uninstall --user 0 com.android.printspooler
 pm uninstall --user 0 com.android.providers.partnerbookmarks
 pm uninstall --user 0 com.android.providers.userdictionary
 pm uninstall --user 0 com.android.proxyhandler
@@ -44,7 +37,6 @@ pm uninstall --user 0 com.android.se
 pm uninstall --user 0 com.android.settings.intelligence
 pm uninstall --user 0 com.android.sharedstoragebackup
 pm uninstall --user 0 com.android.simappdialog
-pm uninstall --user 0 com.android.statementservice
 pm uninstall --user 0 com.android.stk
 pm uninstall --user 0 com.android.stk2
 pm uninstall --user 0 com.android.storagemanager
@@ -92,21 +84,14 @@ pm uninstall --user 0 com.google.android.apps.restore
 pm uninstall --user 0 com.google.android.apps.tachyon
 pm uninstall --user 0 com.google.android.apps.turbo
 pm uninstall --user 0 com.google.android.as
-pm uninstall --user 0 com.google.android.cellbroadcastreceiver
-pm uninstall --user 0 com.google.android.cellbroadcastservice
 pm uninstall --user 0 com.google.android.configupdater
-pm uninstall --user 0 com.google.android.ext.services
-pm uninstall --user 0 com.google.android.ext.shared
 pm uninstall --user 0 com.google.android.feedback
 pm uninstall --user 0 com.google.android.gms.location.history
 pm uninstall --user 0 com.google.android.googlequicksearchbox
 pm uninstall --user 0 com.google.android.networkstack.permissionconfig
-pm uninstall --user 0 com.google.android.onetimeinitializer
 pm uninstall --user 0 com.google.android.overlay.gmsconfig.common
 pm uninstall --user 0 com.google.android.overlay.gmsconfig.gsa
 pm uninstall --user 0 com.google.android.overlay.gmsconfig.photos
-pm uninstall --user 0 com.google.android.overlay.modules.cellbroadcastreceiver
-pm uninstall --user 0 com.google.android.overlay.modules.cellbroadcastservice
 pm uninstall --user 0 com.google.android.overlay.modules.ext.services
 pm uninstall --user 0 com.google.android.overlay.modules.modulemetadata.forframework
 pm uninstall --user 0 com.google.android.overlay.modules.permissioncontroller.forframework
