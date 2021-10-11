@@ -42,6 +42,8 @@ com.google.android.setupwizard
 com.google.android.soundpicker
 com.google.android.syncadapters.contacts
 com.google.android.tag
+com.google.android.sdksetup
+com.google.android.configupdater
 
 
 # Cannot be unninstalled with adb
