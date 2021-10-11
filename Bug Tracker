@@ -1,6 +1,7 @@
 # Cause Bootloop:
 com.google.android.wifi.resources
 com.android.providers.settings
+com.google.android.settings.intelligence
 
 
 # Can unninstall without cause bootloop:
