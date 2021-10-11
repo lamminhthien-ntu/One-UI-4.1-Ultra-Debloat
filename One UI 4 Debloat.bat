@@ -1,4 +1,6 @@
 adb shell
+pm uninstall --user 0 com.google.android.settings.intelligence
+pm uninstall --user 0 com.android.imsserviceentitlement
 pm uninstall --user 0 com.android.cellbroadcastreceiver
 pm uninstall --user 0 android.autoinstalls.config.samsung
 pm uninstall --user 0 com.android.apps.tag
@@ -29,6 +31,7 @@ pm uninstall --user 0 com.android.internal.systemui.navbar.gestural_narrow_back
 pm uninstall --user 0 com.android.internal.systemui.navbar.gestural_wide_back
 pm uninstall --user 0 com.android.internal.systemui.navbar.threebutton
 pm uninstall --user 0 com.android.managedprovisioning
+pm uninstall --user 0 com.android.managedprovisioning.auto_generated_rro_product__
 pm uninstall --user 0 com.android.nfc
 pm uninstall --user 0 com.android.providers.partnerbookmarks
 pm uninstall --user 0 com.android.providers.userdictionary
