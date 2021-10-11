@@ -23,6 +23,10 @@ com.android.dreams.basic
 com.android.dynsystem
 com.android.managedprovisioning
 com.android.managedprovisioning.auto_generated_rro_product__
+com.android.printspooler
+com.android.providers.partnerbookmarks
+com.android.providers.userdictionary
+com.android.proxyhandler
 
 # Cannot be unninstalled with adb
 failed to uninstall:com.android.phone.auto_generated_rro_product__:?
