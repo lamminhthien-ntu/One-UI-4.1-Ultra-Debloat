@@ -1,2 +1,17 @@
 # Cause Bootloop:
 com.google.android.wifi.resources
+
+
+# Can unninstall without cause bootloop:
+android.auto_generated_rro_product__
+android.auto_generated_rro_vendor__
+com.android.backupconfirm
+com.android.bips
+com.android.bips.auto_generated_rro_product__
+com.android.bluetoothmidiservice
+com.android.bookmarkprovider
+com.android.calllogbackup
+com.android.carrierconfig.auto_generated_rro_vendor__
+com.android.carrierdefaultapp
+com.android.cellbroadcastreceiver
+com.android.certinstaller
