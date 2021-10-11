@@ -31,6 +31,17 @@ com.android.providers.userdictionary
 com.android.proxyhandler
 com.android.se
 com.google.android.settings.intelligence
+com.google.android.hotspot2.osulogin
+com.google.android.markup
+com.google.android.onetimeinitializer
+com.google.android.partnersetup
+com.google.android.printservice.recommendation
+com.google.android.projection.gearhead
+com.google.android.settings.intelligence
+com.google.android.setupwizard
+com.google.android.soundpicker
+com.google.android.syncadapters.contacts
+com.google.android.tag
 
 
 # Cannot be unninstalled with adb
