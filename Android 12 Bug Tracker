@@ -1,4 +1,4 @@
-# Cause Bootloop:
+# Cause Bootloop or inconvinience problem:
  com.android.carrierconfig (Break LTE,3G)
  com.android.provider.setting (Bootloop)
 com.android.wifi.resources (Bootloop)
@@ -28,6 +28,7 @@ com.android.server.telecom
 com.android.phone
 com.samsung.android.provider.filterprovider (Break camera app)
 com.samsung.android.providers.media (Break media files access)
+ com.samsung.android.app.aodservice  (Break Clock screen, cannot seen notification on lockscreen)
 
 
 
