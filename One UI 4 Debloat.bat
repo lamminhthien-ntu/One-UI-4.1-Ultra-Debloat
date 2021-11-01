@@ -126,7 +126,6 @@ pm uninstall --user 0 com.samsung.android.accessibility.talkback
 pm uninstall --user 0 com.samsung.android.aircommandmanager
 pm uninstall --user 0 com.samsung.android.allshare.service.fileshare
 pm uninstall --user 0 com.samsung.android.allshare.service.mediashare
-pm uninstall --user 0 com.samsung.android.app.aodservice
 pm uninstall --user 0 com.samsung.android.app.appsedge
 pm uninstall --user 0 com.samsung.android.app.clipboardedge
 pm uninstall --user 0 com.samsung.android.app.cocktailbarservice
