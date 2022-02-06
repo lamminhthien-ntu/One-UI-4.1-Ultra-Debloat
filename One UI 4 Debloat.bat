@@ -141,7 +141,6 @@ com.samsung.android.allshare.service.mediashare
 com.samsung.android.app.appsedge
 com.samsung.android.app.clipboardedge
 com.samsung.android.app.cocktailbarservice
-com.samsung.android.app.dressroom
 com.samsung.android.app.galaxyfinder
 com.samsung.android.app.omcagent
 com.samsung.android.app.reminder
