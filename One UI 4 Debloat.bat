@@ -319,3 +319,7 @@ com.skms.android.agent
 com.trustonic.teeservice
 com.wsomacp
 com.wssyncmldm
+echo Đây là camera giám sát
+com.samsung.android.vtcamerasettings
+echo -----
+echo --
