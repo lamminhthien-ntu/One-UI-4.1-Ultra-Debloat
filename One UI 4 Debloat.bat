@@ -1,325 +1,325 @@
-android.auto_generated_rro_product__
-android.auto_generated_rro_vendor__
-android.autoinstalls.config.samsung
-com.android.apps.tag
-com.android.backupconfirm
-com.android.bips
-com.android.bluetoothmidiservice
-com.android.bookmarkprovider
-com.android.calllogbackup
-com.android.carrierdefaultapp
-com.android.certinstaller
-com.android.companiondevicemanager
-com.android.cts.ctsshim
-com.android.cts.priv.ctsshim
-com.android.dreams.basic
-com.android.dreams.phototable
-com.android.dynsystem
-com.android.egg
-com.android.emergency
-com.android.hotspot2.osulogin
-com.android.internal.display.cutout.emulation.corner
-com.android.internal.display.cutout.emulation.double
-com.android.internal.display.cutout.emulation.hole
-com.android.internal.display.cutout.emulation.tall
-com.android.internal.display.cutout.emulation.waterfall
-com.android.internal.systemui.navbar.gestural
-com.android.internal.systemui.navbar.gestural_extra_wide_back
-com.android.internal.systemui.navbar.gestural_narrow_back
-com.android.internal.systemui.navbar.gestural_wide_back
-com.android.internal.systemui.navbar.threebutton
-com.android.keychain
-com.android.localtransport
-com.android.managedprovisioning
-com.android.mms.service
-com.android.nfc
-com.android.ons
-com.android.pacprocessor
-com.android.printspooler
-com.android.providers.partnerbookmarks
-com.android.providers.userdictionary
-com.android.proxyhandler
-com.android.se
-com.android.settings.intelligence
-com.android.sharedstoragebackup
-com.android.simappdialog
-com.android.statementservice
-com.android.stk
-com.android.stk2
-com.android.storagemanager
-com.android.theme.color.black
-com.android.theme.color.cinnamon
-com.android.theme.color.green
-com.android.theme.color.ocean
-com.android.theme.color.orchid
-com.android.theme.color.purple
-com.android.theme.color.space
-com.android.theme.font.notoserifsource
-com.android.theme.icon.pebble
-com.android.theme.icon.roundedrect
-com.android.theme.icon.squircle
-com.android.theme.icon.taperedrect
-com.android.theme.icon.teardrop
-com.android.theme.icon.vessel
-com.android.theme.icon_pack.circular.android
-com.android.theme.icon_pack.circular.launcher
-com.android.theme.icon_pack.circular.settings
-com.android.theme.icon_pack.circular.systemui
-com.android.theme.icon_pack.circular.themepicker
-com.android.theme.icon_pack.filled.android
-com.android.theme.icon_pack.filled.launcher
-com.android.theme.icon_pack.filled.settings
-com.android.theme.icon_pack.filled.systemui
-com.android.theme.icon_pack.filled.themepicker
-com.android.theme.icon_pack.rounded.android
-com.android.theme.icon_pack.rounded.launcher
-com.android.theme.icon_pack.rounded.settings
-com.android.theme.icon_pack.rounded.systemui
-com.android.theme.icon_pack.rounded.themepicker
-com.android.traceur
-com.android.wallpaper.livepicker
-com.android.wallpaperbackup
-com.android.wallpapercropper
-com.aura.oobe.samsung.gl
-com.debug.loggerui
-com.diotek.sec.lookup.dictionary
-com.facebook.appmanager
-com.facebook.services
-com.facebook.system
-com.google.android.apps.carrier.carrierwifi
-com.google.android.apps.restore
-com.google.android.apps.tachyon
-com.google.android.apps.turbo
-com.google.android.as
-com.google.android.cellbroadcastreceiver
-com.google.android.cellbroadcastservice
-com.google.android.configupdater
-com.google.android.ext.services
-com.google.android.ext.shared
-com.google.android.feedback
-com.google.android.gms.location.history
-com.google.android.googlequicksearchbox
-com.google.android.networkstack.permissionconfig
-com.google.android.onetimeinitializer
-com.google.android.overlay.gmsconfig.common
-com.google.android.overlay.gmsconfig.gsa
-com.google.android.overlay.gmsconfig.photos
-com.google.android.overlay.modules.cellbroadcastreceiver
-com.google.android.overlay.modules.cellbroadcastservice
-com.google.android.overlay.modules.ext.services
-com.google.android.overlay.modules.modulemetadata.forframework
-com.google.android.overlay.modules.permissioncontroller.forframework
-com.google.android.partnersetup
-com.google.android.printservice.recommendation
-com.google.android.projection.gearhead
-com.google.android.setupwizard
-com.google.android.tts
-com.google.ar.core
-com.google.mainline.telemetry
-com.hiya.star
-com.knox.vpn.proxyhandler
-com.mediatek
-com.mediatek.systemuiresoverlay
-com.microsoft.appmanager
-com.microsoft.skydrive
-com.monotype.android.font.foundation
-com.monotype.android.font.samsungone
-com.netflix.mediaclient
-com.netflix.partner.activation
-com.osp.app.signin
-com.samsung.aasaservice
-com.samsung.adaptivebrightnessgo
-com.samsung.advp.imssettings
-com.samsung.android.accessibility.talkback
-com.samsung.android.aircommandmanager
-com.samsung.android.allshare.service.fileshare
-com.samsung.android.allshare.service.mediashare
-com.samsung.android.app.appsedge
-com.samsung.android.app.clipboardedge
-com.samsung.android.app.cocktailbarservice
-com.samsung.android.app.galaxyfinder
-com.samsung.android.app.omcagent
-com.samsung.android.app.reminder
-com.samsung.android.app.settings.bixby
-com.samsung.android.app.sharelive
-com.samsung.android.app.simplesharing
-com.samsung.android.app.smartcapture
-com.samsung.android.app.soundpicker
-com.samsung.android.app.spage
-com.samsung.android.app.taskedge
-com.samsung.android.app.watchmanagerstub
-com.samsung.android.appseparation
-com.samsung.android.ardrawing
-com.samsung.android.aremoji
-com.samsung.android.aremojieditor
-com.samsung.android.arzone
-com.samsung.android.authfw
-com.samsung.android.aware.service
-com.samsung.android.bbc.bbcagent
-com.samsung.android.beaconmanager
-com.samsung.android.bixbyvision.framework
-com.samsung.android.bluelightfilter
-com.samsung.android.brightnessbackupservice
-com.samsung.android.callbgprovider
-com.samsung.android.cidmanager
-com.samsung.android.cmfa.framework
-com.samsung.android.container
-com.samsung.android.da.daagent
-com.samsung.android.dqagent
-com.samsung.android.dsms
-com.samsung.android.dynamiclock
-com.samsung.android.easysetup
-com.samsung.android.fmm
-com.samsung.android.forest
-com.samsung.android.game.gamehome
-com.samsung.android.game.gametools
-com.samsung.android.hdmapp
-com.samsung.android.icecone
-com.samsung.android.kidsinstaller
-com.samsung.android.knox.analytics.uploader
-com.samsung.android.knox.attestation
-com.samsung.android.knox.containeragent
-com.samsung.android.knox.containercore
-com.samsung.android.knox.pushmanager
-com.samsung.android.livestickers
-com.samsung.android.localeoverlaymanager
-com.samsung.android.location
-com.samsung.android.lool
-com.samsung.android.mapsagent
-com.samsung.android.mateagent
-com.samsung.android.mcfds
-com.samsung.android.mcfserver
-com.samsung.android.mdecservice
-com.samsung.android.mdm
-com.samsung.android.mdx
-com.samsung.android.mdx.kit
-com.samsung.android.mdx.quickboard
-com.samsung.android.mobileservice
-com.samsung.android.motionphoto.viewer
-com.samsung.android.net.wifi.wifiguider
-com.samsung.android.networkdiagnostic
-com.samsung.android.networkstack
-com.samsung.android.networkstack.tethering.overlay
-com.samsung.android.privateshare
-com.samsung.android.providers.carrier
-com.samsung.android.rubin.app
-com.samsung.android.samsungpass
-com.samsung.android.samsungpassautofill
-com.samsung.android.scloud
-com.samsung.android.scs
-com.samsung.android.sdk.handwriting
-com.samsung.android.sdm.config
-com.samsung.android.secsoundpicker
-com.samsung.android.securitylogagent
-com.samsung.android.server.wifi.mobilewips
-com.samsung.android.service.peoplestripe
-com.samsung.android.service.stplatform
-com.samsung.android.setting.multisound
-com.samsung.android.SettingsReceiver
-com.samsung.android.shortcutbackupservice
-com.samsung.android.sm.devicesecurity
-com.samsung.android.sm.policy
-com.samsung.android.smartcallprovider
-com.samsung.android.smartface
-com.samsung.android.smartmirroring
-com.samsung.android.smartsuggestions
-com.samsung.android.smartswitchassistant
-com.samsung.android.spayfw
-com.samsung.android.stickercenter
-com.samsung.android.svcagent
-com.samsung.android.tadownloader
-com.samsung.android.tapack.authfw
-com.samsung.android.themecenter
-com.samsung.android.themestore
-com.samsung.android.uds
-com.samsung.android.visionintelligence
-com.samsung.android.wallpaper.res
-com.samsung.android.wifi.resources
-com.samsung.android.wifi.softap.resources
-com.samsung.app.newtrim
-com.samsung.cmh
-com.samsung.crane
-com.samsung.faceservice
-com.samsung.ims.smk
-com.samsung.internal.systemui.navbar.gestural_no_hint
-com.samsung.internal.systemui.navbar.gestural_no_hint_extra_wide_back
-com.samsung.internal.systemui.navbar.gestural_no_hint_narrow_back
-com.samsung.internal.systemui.navbar.gestural_no_hint_wide_back
-com.samsung.internal.systemui.navbar.sec_gestural
-com.samsung.internal.systemui.navbar.sec_gestural_no_hint
-com.samsung.ipservice
-com.samsung.klmsagent
-com.samsung.knox.keychain
-com.samsung.knox.securefolder
-com.samsung.memorysaver
-com.samsung.rcs
-com.samsung.safetyinformation
-com.samsung.sec.android.application.csc
-com.samsung.SMT
-com.samsung.storyservice
-com.sec.android.app.billing
-com.sec.android.app.bluetoothtest
-com.sec.android.app.chromecustomizations
-com.sec.android.app.DataCreate
-com.sec.android.app.factorykeystring
-com.sec.android.app.fm
-com.sec.android.app.hwmoduletest
-com.sec.android.app.magnifier
-com.sec.android.app.parser
-com.sec.android.app.personalization
-com.sec.android.app.quicktool
-com.sec.android.app.ringtoneBR
-com.sec.android.app.safetyassurance
-com.sec.android.app.samsungapps
-com.sec.android.app.SecSetupWizard
-com.sec.android.app.servicemodeapp
-com.sec.android.app.setupwizardlegalprovider
-com.sec.android.app.soundalive
-com.sec.android.app.ve.vebgm
-com.sec.android.app.wlantest
-com.sec.android.autodoodle.service
-com.sec.android.daemonapp
-com.sec.android.diagmonagent
-com.sec.android.easyMover.Agent
-com.sec.android.easyonehand
-com.sec.android.emergencylauncher
-com.sec.android.emergencymode.service
-com.sec.android.mimage.avatarstickers
-com.sec.android.mimage.photoretouching
-com.sec.android.preloadinstaller
-com.sec.android.provider.badge
-com.sec.android.provider.emergencymode
-com.sec.android.RilServiceModeApp
-com.sec.android.soagent
-com.sec.android.widgetapp.easymodecontactswidget
-com.sec.android.widgetapp.webmanual
-com.sec.app.RilErrorNotifier
-com.sec.automation
-com.sec.bcservice
-com.sec.enterprise.knox.attestation
-com.sec.enterprise.knox.cloudmdm.smdms
-com.sec.enterprise.mdm.services.simpin
-com.sec.epdg
-com.sec.epdgtestapp
-com.sec.factory
-com.sec.factory.camera
-com.sec.factory.cameralyzer
-com.sec.hearingadjust
-com.sec.imslogger
-com.sec.imsservice
-com.sec.location.nfwlocationprivacy
-com.sec.location.nsflp2
-com.sec.mhs.smarttethering
-com.sec.phone
-com.sec.spp.push
-com.sec.sve
-com.sec.unifiedwfc
-com.sec.vsim.ericssonnsds.webapp
-com.skms.android.agent
-com.trustonic.teeservice
-com.wsomacp
-com.wssyncmldm
+pm uninstall --user 0 android.auto_generated_rro_product__
+pm uninstall --user 0 android.auto_generated_rro_vendor__
+pm uninstall --user 0 android.autoinstalls.config.samsung
+pm uninstall --user 0 com.android.apps.tag
+pm uninstall --user 0 com.android.backupconfirm
+pm uninstall --user 0 com.android.bips
+pm uninstall --user 0 com.android.bluetoothmidiservice
+pm uninstall --user 0 com.android.bookmarkprovider
+pm uninstall --user 0 com.android.calllogbackup
+pm uninstall --user 0 com.android.carrierdefaultapp
+pm uninstall --user 0 com.android.certinstaller
+pm uninstall --user 0 com.android.companiondevicemanager
+pm uninstall --user 0 com.android.cts.ctsshim
+pm uninstall --user 0 com.android.cts.priv.ctsshim
+pm uninstall --user 0 com.android.dreams.basic
+pm uninstall --user 0 com.android.dreams.phototable
+pm uninstall --user 0 com.android.dynsystem
+pm uninstall --user 0 com.android.egg
+pm uninstall --user 0 com.android.emergency
+pm uninstall --user 0 com.android.hotspot2.osulogin
+pm uninstall --user 0 com.android.internal.display.cutout.emulation.corner
+pm uninstall --user 0 com.android.internal.display.cutout.emulation.double
+pm uninstall --user 0 com.android.internal.display.cutout.emulation.hole
+pm uninstall --user 0 com.android.internal.display.cutout.emulation.tall
+pm uninstall --user 0 com.android.internal.display.cutout.emulation.waterfall
+pm uninstall --user 0 com.android.internal.systemui.navbar.gestural
+pm uninstall --user 0 com.android.internal.systemui.navbar.gestural_extra_wide_back
+pm uninstall --user 0 com.android.internal.systemui.navbar.gestural_narrow_back
+pm uninstall --user 0 com.android.internal.systemui.navbar.gestural_wide_back
+pm uninstall --user 0 com.android.internal.systemui.navbar.threebutton
+pm uninstall --user 0 com.android.keychain
+pm uninstall --user 0 com.android.localtransport
+pm uninstall --user 0 com.android.managedprovisioning
+pm uninstall --user 0 com.android.mms.service
+pm uninstall --user 0 com.android.nfc
+pm uninstall --user 0 com.android.ons
+pm uninstall --user 0 com.android.pacprocessor
+pm uninstall --user 0 com.android.printspooler
+pm uninstall --user 0 com.android.providers.partnerbookmarks
+pm uninstall --user 0 com.android.providers.userdictionary
+pm uninstall --user 0 com.android.proxyhandler
+pm uninstall --user 0 com.android.se
+pm uninstall --user 0 com.android.settings.intelligence
+pm uninstall --user 0 com.android.sharedstoragebackup
+pm uninstall --user 0 com.android.simappdialog
+pm uninstall --user 0 com.android.statementservice
+pm uninstall --user 0 com.android.stk
+pm uninstall --user 0 com.android.stk2
+pm uninstall --user 0 com.android.storagemanager
+pm uninstall --user 0 com.android.theme.color.black
+pm uninstall --user 0 com.android.theme.color.cinnamon
+pm uninstall --user 0 com.android.theme.color.green
+pm uninstall --user 0 com.android.theme.color.ocean
+pm uninstall --user 0 com.android.theme.color.orchid
+pm uninstall --user 0 com.android.theme.color.purple
+pm uninstall --user 0 com.android.theme.color.space
+pm uninstall --user 0 com.android.theme.font.notoserifsource
+pm uninstall --user 0 com.android.theme.icon.pebble
+pm uninstall --user 0 com.android.theme.icon.roundedrect
+pm uninstall --user 0 com.android.theme.icon.squircle
+pm uninstall --user 0 com.android.theme.icon.taperedrect
+pm uninstall --user 0 com.android.theme.icon.teardrop
+pm uninstall --user 0 com.android.theme.icon.vessel
+pm uninstall --user 0 com.android.theme.icon_pack.circular.android
+pm uninstall --user 0 com.android.theme.icon_pack.circular.launcher
+pm uninstall --user 0 com.android.theme.icon_pack.circular.settings
+pm uninstall --user 0 com.android.theme.icon_pack.circular.systemui
+pm uninstall --user 0 com.android.theme.icon_pack.circular.themepicker
+pm uninstall --user 0 com.android.theme.icon_pack.filled.android
+pm uninstall --user 0 com.android.theme.icon_pack.filled.launcher
+pm uninstall --user 0 com.android.theme.icon_pack.filled.settings
+pm uninstall --user 0 com.android.theme.icon_pack.filled.systemui
+pm uninstall --user 0 com.android.theme.icon_pack.filled.themepicker
+pm uninstall --user 0 com.android.theme.icon_pack.rounded.android
+pm uninstall --user 0 com.android.theme.icon_pack.rounded.launcher
+pm uninstall --user 0 com.android.theme.icon_pack.rounded.settings
+pm uninstall --user 0 com.android.theme.icon_pack.rounded.systemui
+pm uninstall --user 0 com.android.theme.icon_pack.rounded.themepicker
+pm uninstall --user 0 com.android.traceur
+pm uninstall --user 0 com.android.wallpaper.livepicker
+pm uninstall --user 0 com.android.wallpaperbackup
+pm uninstall --user 0 com.android.wallpapercropper
+pm uninstall --user 0 com.aura.oobe.samsung.gl
+pm uninstall --user 0 com.debug.loggerui
+pm uninstall --user 0 com.diotek.sec.lookup.dictionary
+pm uninstall --user 0 com.facebook.appmanager
+pm uninstall --user 0 com.facebook.services
+pm uninstall --user 0 com.facebook.system
+pm uninstall --user 0 com.google.android.apps.carrier.carrierwifi
+pm uninstall --user 0 com.google.android.apps.restore
+pm uninstall --user 0 com.google.android.apps.tachyon
+pm uninstall --user 0 com.google.android.apps.turbo
+pm uninstall --user 0 com.google.android.as
+pm uninstall --user 0 com.google.android.cellbroadcastreceiver
+pm uninstall --user 0 com.google.android.cellbroadcastservice
+pm uninstall --user 0 com.google.android.configupdater
+pm uninstall --user 0 com.google.android.ext.services
+pm uninstall --user 0 com.google.android.ext.shared
+pm uninstall --user 0 com.google.android.feedback
+pm uninstall --user 0 com.google.android.gms.location.history
+pm uninstall --user 0 com.google.android.googlequicksearchbox
+pm uninstall --user 0 com.google.android.networkstack.permissionconfig
+pm uninstall --user 0 com.google.android.onetimeinitializer
+pm uninstall --user 0 com.google.android.overlay.gmsconfig.common
+pm uninstall --user 0 com.google.android.overlay.gmsconfig.gsa
+pm uninstall --user 0 com.google.android.overlay.gmsconfig.photos
+pm uninstall --user 0 com.google.android.overlay.modules.cellbroadcastreceiver
+pm uninstall --user 0 com.google.android.overlay.modules.cellbroadcastservice
+pm uninstall --user 0 com.google.android.overlay.modules.ext.services
+pm uninstall --user 0 com.google.android.overlay.modules.modulemetadata.forframework
+pm uninstall --user 0 com.google.android.overlay.modules.permissioncontroller.forframework
+pm uninstall --user 0 com.google.android.partnersetup
+pm uninstall --user 0 com.google.android.printservice.recommendation
+pm uninstall --user 0 com.google.android.projection.gearhead
+pm uninstall --user 0 com.google.android.setupwizard
+pm uninstall --user 0 com.google.android.tts
+pm uninstall --user 0 com.google.ar.core
+pm uninstall --user 0 com.google.mainline.telemetry
+pm uninstall --user 0 com.hiya.star
+pm uninstall --user 0 com.knox.vpn.proxyhandler
+pm uninstall --user 0 com.mediatek
+pm uninstall --user 0 com.mediatek.systemuiresoverlay
+pm uninstall --user 0 com.microsoft.appmanager
+pm uninstall --user 0 com.microsoft.skydrive
+pm uninstall --user 0 com.monotype.android.font.foundation
+pm uninstall --user 0 com.monotype.android.font.samsungone
+pm uninstall --user 0 com.netflix.mediaclient
+pm uninstall --user 0 com.netflix.partner.activation
+pm uninstall --user 0 com.osp.app.signin
+pm uninstall --user 0 com.samsung.aasaservice
+pm uninstall --user 0 com.samsung.adaptivebrightnessgo
+pm uninstall --user 0 com.samsung.advp.imssettings
+pm uninstall --user 0 com.samsung.android.accessibility.talkback
+pm uninstall --user 0 com.samsung.android.aircommandmanager
+pm uninstall --user 0 com.samsung.android.allshare.service.fileshare
+pm uninstall --user 0 com.samsung.android.allshare.service.mediashare
+pm uninstall --user 0 com.samsung.android.app.appsedge
+pm uninstall --user 0 com.samsung.android.app.clipboardedge
+pm uninstall --user 0 com.samsung.android.app.cocktailbarservice
+pm uninstall --user 0 com.samsung.android.app.galaxyfinder
+pm uninstall --user 0 com.samsung.android.app.omcagent
+pm uninstall --user 0 com.samsung.android.app.reminder
+pm uninstall --user 0 com.samsung.android.app.settings.bixby
+pm uninstall --user 0 com.samsung.android.app.sharelive
+pm uninstall --user 0 com.samsung.android.app.simplesharing
+pm uninstall --user 0 com.samsung.android.app.smartcapture
+pm uninstall --user 0 com.samsung.android.app.soundpicker
+pm uninstall --user 0 com.samsung.android.app.spage
+pm uninstall --user 0 com.samsung.android.app.taskedge
+pm uninstall --user 0 com.samsung.android.app.watchmanagerstub
+pm uninstall --user 0 com.samsung.android.appseparation
+pm uninstall --user 0 com.samsung.android.ardrawing
+pm uninstall --user 0 com.samsung.android.aremoji
+pm uninstall --user 0 com.samsung.android.aremojieditor
+pm uninstall --user 0 com.samsung.android.arzone
+pm uninstall --user 0 com.samsung.android.authfw
+pm uninstall --user 0 com.samsung.android.aware.service
+pm uninstall --user 0 com.samsung.android.bbc.bbcagent
+pm uninstall --user 0 com.samsung.android.beaconmanager
+pm uninstall --user 0 com.samsung.android.bixbyvision.framework
+pm uninstall --user 0 com.samsung.android.bluelightfilter
+pm uninstall --user 0 com.samsung.android.brightnessbackupservice
+pm uninstall --user 0 com.samsung.android.callbgprovider
+pm uninstall --user 0 com.samsung.android.cidmanager
+pm uninstall --user 0 com.samsung.android.cmfa.framework
+pm uninstall --user 0 com.samsung.android.container
+pm uninstall --user 0 com.samsung.android.da.daagent
+pm uninstall --user 0 com.samsung.android.dqagent
+pm uninstall --user 0 com.samsung.android.dsms
+pm uninstall --user 0 com.samsung.android.dynamiclock
+pm uninstall --user 0 com.samsung.android.easysetup
+pm uninstall --user 0 com.samsung.android.fmm
+pm uninstall --user 0 com.samsung.android.forest
+pm uninstall --user 0 com.samsung.android.game.gamehome
+pm uninstall --user 0 com.samsung.android.game.gametools
+pm uninstall --user 0 com.samsung.android.hdmapp
+pm uninstall --user 0 com.samsung.android.icecone
+pm uninstall --user 0 com.samsung.android.kidsinstaller
+pm uninstall --user 0 com.samsung.android.knox.analytics.uploader
+pm uninstall --user 0 com.samsung.android.knox.attestation
+pm uninstall --user 0 com.samsung.android.knox.containeragent
+pm uninstall --user 0 com.samsung.android.knox.containercore
+pm uninstall --user 0 com.samsung.android.knox.pushmanager
+pm uninstall --user 0 com.samsung.android.livestickers
+pm uninstall --user 0 com.samsung.android.localeoverlaymanager
+pm uninstall --user 0 com.samsung.android.location
+pm uninstall --user 0 com.samsung.android.lool
+pm uninstall --user 0 com.samsung.android.mapsagent
+pm uninstall --user 0 com.samsung.android.mateagent
+pm uninstall --user 0 com.samsung.android.mcfds
+pm uninstall --user 0 com.samsung.android.mcfserver
+pm uninstall --user 0 com.samsung.android.mdecservice
+pm uninstall --user 0 com.samsung.android.mdm
+pm uninstall --user 0 com.samsung.android.mdx
+pm uninstall --user 0 com.samsung.android.mdx.kit
+pm uninstall --user 0 com.samsung.android.mdx.quickboard
+pm uninstall --user 0 com.samsung.android.mobileservice
+pm uninstall --user 0 com.samsung.android.motionphoto.viewer
+pm uninstall --user 0 com.samsung.android.net.wifi.wifiguider
+pm uninstall --user 0 com.samsung.android.networkdiagnostic
+pm uninstall --user 0 com.samsung.android.networkstack
+pm uninstall --user 0 com.samsung.android.networkstack.tethering.overlay
+pm uninstall --user 0 com.samsung.android.privateshare
+pm uninstall --user 0 com.samsung.android.providers.carrier
+pm uninstall --user 0 com.samsung.android.rubin.app
+pm uninstall --user 0 com.samsung.android.samsungpass
+pm uninstall --user 0 com.samsung.android.samsungpassautofill
+pm uninstall --user 0 com.samsung.android.scloud
+pm uninstall --user 0 com.samsung.android.scs
+pm uninstall --user 0 com.samsung.android.sdk.handwriting
+pm uninstall --user 0 com.samsung.android.sdm.config
+pm uninstall --user 0 com.samsung.android.secsoundpicker
+pm uninstall --user 0 com.samsung.android.securitylogagent
+pm uninstall --user 0 com.samsung.android.server.wifi.mobilewips
+pm uninstall --user 0 com.samsung.android.service.peoplestripe
+pm uninstall --user 0 com.samsung.android.service.stplatform
+pm uninstall --user 0 com.samsung.android.setting.multisound
+pm uninstall --user 0 com.samsung.android.SettingsReceiver
+pm uninstall --user 0 com.samsung.android.shortcutbackupservice
+pm uninstall --user 0 com.samsung.android.sm.devicesecurity
+pm uninstall --user 0 com.samsung.android.sm.policy
+pm uninstall --user 0 com.samsung.android.smartcallprovider
+pm uninstall --user 0 com.samsung.android.smartface
+pm uninstall --user 0 com.samsung.android.smartmirroring
+pm uninstall --user 0 com.samsung.android.smartsuggestions
+pm uninstall --user 0 com.samsung.android.smartswitchassistant
+pm uninstall --user 0 com.samsung.android.spayfw
+pm uninstall --user 0 com.samsung.android.stickercenter
+pm uninstall --user 0 com.samsung.android.svcagent
+pm uninstall --user 0 com.samsung.android.tadownloader
+pm uninstall --user 0 com.samsung.android.tapack.authfw
+pm uninstall --user 0 com.samsung.android.themecenter
+pm uninstall --user 0 com.samsung.android.themestore
+pm uninstall --user 0 com.samsung.android.uds
+pm uninstall --user 0 com.samsung.android.visionintelligence
+pm uninstall --user 0 com.samsung.android.wallpaper.res
+pm uninstall --user 0 com.samsung.android.wifi.resources
+pm uninstall --user 0 com.samsung.android.wifi.softap.resources
+pm uninstall --user 0 com.samsung.app.newtrim
+pm uninstall --user 0 com.samsung.cmh
+pm uninstall --user 0 com.samsung.crane
+pm uninstall --user 0 com.samsung.faceservice
+pm uninstall --user 0 com.samsung.ims.smk
+pm uninstall --user 0 com.samsung.internal.systemui.navbar.gestural_no_hint
+pm uninstall --user 0 com.samsung.internal.systemui.navbar.gestural_no_hint_extra_wide_back
+pm uninstall --user 0 com.samsung.internal.systemui.navbar.gestural_no_hint_narrow_back
+pm uninstall --user 0 com.samsung.internal.systemui.navbar.gestural_no_hint_wide_back
+pm uninstall --user 0 com.samsung.internal.systemui.navbar.sec_gestural
+pm uninstall --user 0 com.samsung.internal.systemui.navbar.sec_gestural_no_hint
+pm uninstall --user 0 com.samsung.ipservice
+pm uninstall --user 0 com.samsung.klmsagent
+pm uninstall --user 0 com.samsung.knox.keychain
+pm uninstall --user 0 com.samsung.knox.securefolder
+pm uninstall --user 0 com.samsung.memorysaver
+pm uninstall --user 0 com.samsung.rcs
+pm uninstall --user 0 com.samsung.safetyinformation
+pm uninstall --user 0 com.samsung.sec.android.application.csc
+pm uninstall --user 0 com.samsung.SMT
+pm uninstall --user 0 com.samsung.storyservice
+pm uninstall --user 0 com.sec.android.app.billing
+pm uninstall --user 0 com.sec.android.app.bluetoothtest
+pm uninstall --user 0 com.sec.android.app.chromecustomizations
+pm uninstall --user 0 com.sec.android.app.DataCreate
+pm uninstall --user 0 com.sec.android.app.factorykeystring
+pm uninstall --user 0 com.sec.android.app.fm
+pm uninstall --user 0 com.sec.android.app.hwmoduletest
+pm uninstall --user 0 com.sec.android.app.magnifier
+pm uninstall --user 0 com.sec.android.app.parser
+pm uninstall --user 0 com.sec.android.app.personalization
+pm uninstall --user 0 com.sec.android.app.quicktool
+pm uninstall --user 0 com.sec.android.app.ringtoneBR
+pm uninstall --user 0 com.sec.android.app.safetyassurance
+pm uninstall --user 0 com.sec.android.app.samsungapps
+pm uninstall --user 0 com.sec.android.app.SecSetupWizard
+pm uninstall --user 0 com.sec.android.app.servicemodeapp
+pm uninstall --user 0 com.sec.android.app.setupwizardlegalprovider
+pm uninstall --user 0 com.sec.android.app.soundalive
+pm uninstall --user 0 com.sec.android.app.ve.vebgm
+pm uninstall --user 0 com.sec.android.app.wlantest
+pm uninstall --user 0 com.sec.android.autodoodle.service
+pm uninstall --user 0 com.sec.android.daemonapp
+pm uninstall --user 0 com.sec.android.diagmonagent
+pm uninstall --user 0 com.sec.android.easyMover.Agent
+pm uninstall --user 0 com.sec.android.easyonehand
+pm uninstall --user 0 com.sec.android.emergencylauncher
+pm uninstall --user 0 com.sec.android.emergencymode.service
+pm uninstall --user 0 com.sec.android.mimage.avatarstickers
+pm uninstall --user 0 com.sec.android.mimage.photoretouching
+pm uninstall --user 0 com.sec.android.preloadinstaller
+pm uninstall --user 0 com.sec.android.provider.badge
+pm uninstall --user 0 com.sec.android.provider.emergencymode
+pm uninstall --user 0 com.sec.android.RilServiceModeApp
+pm uninstall --user 0 com.sec.android.soagent
+pm uninstall --user 0 com.sec.android.widgetapp.easymodecontactswidget
+pm uninstall --user 0 com.sec.android.widgetapp.webmanual
+pm uninstall --user 0 com.sec.app.RilErrorNotifier
+pm uninstall --user 0 com.sec.automation
+pm uninstall --user 0 com.sec.bcservice
+pm uninstall --user 0 com.sec.enterprise.knox.attestation
+pm uninstall --user 0 com.sec.enterprise.knox.cloudmdm.smdms
+pm uninstall --user 0 com.sec.enterprise.mdm.services.simpin
+pm uninstall --user 0 com.sec.epdg
+pm uninstall --user 0 com.sec.epdgtestapp
+pm uninstall --user 0 com.sec.factory
+pm uninstall --user 0 com.sec.factory.camera
+pm uninstall --user 0 com.sec.factory.cameralyzer
+pm uninstall --user 0 com.sec.hearingadjust
+pm uninstall --user 0 com.sec.imslogger
+pm uninstall --user 0 com.sec.imsservice
+pm uninstall --user 0 com.sec.location.nfwlocationprivacy
+pm uninstall --user 0 com.sec.location.nsflp2
+pm uninstall --user 0 com.sec.mhs.smarttethering
+pm uninstall --user 0 com.sec.phone
+pm uninstall --user 0 com.sec.spp.push
+pm uninstall --user 0 com.sec.sve
+pm uninstall --user 0 com.sec.unifiedwfc
+pm uninstall --user 0 com.sec.vsim.ericssonnsds.webapp
+pm uninstall --user 0 com.skms.android.agent
+pm uninstall --user 0 com.trustonic.teeservice
+pm uninstall --user 0 com.wsomacp
+pm uninstall --user 0 com.wssyncmldm
 echo Đây là camera giám sát
-com.samsung.android.vtcamerasettings
+pm uninstall --user 0 com.samsung.android.vtcamerasettings
 echo -----
 echo --
