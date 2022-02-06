@@ -1,7 +1,3 @@
-# Preset was created in ADB AppControl 1.7.1
-# Total applications: 322
-# 10/31/2021 6:05 PM
-# Samsung SM-A315G Deleted applications
 android.auto_generated_rro_product__
 android.auto_generated_rro_vendor__
 android.autoinstalls.config.samsung
