@@ -29,7 +29,7 @@ com.android.phone
 com.samsung.android.provider.filterprovider (Break camera app)
 com.samsung.android.providers.media (Break media files access)
  com.samsung.android.app.aodservice  (Break Clock screen, cannot seen notification on lockscreen)
-
+com.samsung.android.app.appsedge (Break function split screen)
 
 
 
